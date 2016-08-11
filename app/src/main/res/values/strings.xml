@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CtourBeta</string>
+    <string name="search_title">Search</string>
+
+    <string name="menu_item_tour">Туры</string>
+
+    <string name="view_open">Open</string>
+    <string name="view_close">Close</string>
+
+    <string name="tab_item_all_tour">Все туры</string>
+    <string name="tab_item_my_tour">Мои туры</string>
+    <string name="tab_item_arr_tour">TO DO</string>
+
+</resources>
